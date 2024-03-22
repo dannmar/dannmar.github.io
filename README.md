@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannmar
 - 👀 I’m interested in audio
-- 🌱 I’m currently learning pure data
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game audio
 - 📫 How to reach me... Here!
 - 😄 Pronouns: He/him
