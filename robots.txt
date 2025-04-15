@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dannmar.github.io/dannmar/sitemap.xml
