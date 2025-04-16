@@ -3,12 +3,162 @@
     <title>Daniel Marin</title>
     <link href="https://dannmar.github.io/feed.xml" rel="self" />
     <link href="https://dannmar.github.io" />
-    <updated>2025-04-15T17:48:38+01:00</updated>
+    <updated>2025-04-16T08:19:59+01:00</updated>
     <author>
         <name>Daniel Marin</name>
     </author>
     <id>https://dannmar.github.io</id>
 
+    <entry>
+        <title>Brothers</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://dannmar.github.io/brothers.html"/>
+        <id>https://dannmar.github.io/brothers.html</id>
+            <category term="Portfolio"/>
+            <category term="Film Score"/>
+
+        <updated>2025-04-16T08:19:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Brothers is an Australian short film released in 2021
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Brothers is an Australian short film released in 2021
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Green Girl</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://dannmar.github.io/green-girl.html"/>
+        <id>https://dannmar.github.io/green-girl.html</id>
+        <media:content url="https://dannmar.github.io/media/posts/7/Screenshot-2025-04-09-at-18.00.15.png" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Film Score"/>
+
+        <updated>2025-04-16T08:18:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dannmar.github.io/media/posts/7/Screenshot-2025-04-09-at-18.00.15.png" alt="" />
+                    Green Girl is an Indian Short film released in 2024.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dannmar.github.io/media/posts/7/Screenshot-2025-04-09-at-18.00.15.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Green Girl is an Indian Short film released in 2024.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://dannmar.github.io/media/posts/7/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg.avif" height="null" width="null" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-xs.avif 300w ,https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-sm.avif 480w ,https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-md.avif 768w ,https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-lg.avif 1024w ,https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-xl.avif 1360w ,https://dannmar.github.io/media/posts/7/responsive/homegrown-2024-11-19-5vijrv68-WhatsApp-Image-2024-11-19-at-10.54.49-AM.jpeg-2xl.avif 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Air Soundscape Generator</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://dannmar.github.io/air-soundscape-generator.html"/>
+        <id>https://dannmar.github.io/air-soundscape-generator.html</id>
+        <media:content url="https://dannmar.github.io/media/posts/6/148D671D-250B-4CCC-8F00-10E2B88A30E8.heic" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Interactive Design"/>
+
+        <updated>2025-04-16T08:15:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dannmar.github.io/media/posts/6/148D671D-250B-4CCC-8F00-10E2B88A30E8.heic" alt="" />
+                    This was an accessible instrument created in collaboration with Drake Music in April 2024.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dannmar.github.io/media/posts/6/148D671D-250B-4CCC-8F00-10E2B88A30E8.heic" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    This was an accessible instrument created in collaboration with Drake Music in April 2024.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Parallel World of Waves and Data</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://dannmar.github.io/the-parallel-world-of-waves-and-data.html"/>
+        <id>https://dannmar.github.io/the-parallel-world-of-waves-and-data.html</id>
+        <media:content url="https://dannmar.github.io/media/posts/5/32AC4CA2-AE39-45AF-B1E1-D26AE7D2C74C.heic" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Interactive Design"/>
+
+        <updated>2025-04-16T08:13:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dannmar.github.io/media/posts/5/32AC4CA2-AE39-45AF-B1E1-D26AE7D2C74C.heic" alt="" />
+                    This audiovisual installation was exhibited at Gallery 46 in February 2024.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dannmar.github.io/media/posts/5/32AC4CA2-AE39-45AF-B1E1-D26AE7D2C74C.heic" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    This audiovisual installation was exhibited at Gallery 46 in February 2024.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/38368EE4-4322-44A3-9513-169AE2EBD73F.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/38368EE4-4322-44A3-9513-169AE2EBD73F.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/5006407C-4003-40CF-827C-2AED3DCBF504.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/5006407C-4003-40CF-827C-2AED3DCBF504.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/779E1094-2E21-458C-B84D-C8ADBBE3F2AE.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/779E1094-2E21-458C-B84D-C8ADBBE3F2AE.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/506D1C0A-4F38-4DFE-9959-6D59C080D0FB.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/506D1C0A-4F38-4DFE-9959-6D59C080D0FB.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/420D7C74-09B0-45F5-9401-DB9BD0534BAA.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/420D7C74-09B0-45F5-9401-DB9BD0534BAA.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://dannmar.github.io/media/posts/5/gallery/2C6C6D90-46BC-41E9-8A5D-6C2FEFD59014.heic" data-size="x">
+        <img loading="lazy" src="https://dannmar.github.io/media/posts/5/gallery/2C6C6D90-46BC-41E9-8A5D-6C2FEFD59014.heic" height="" width="" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gallery</title>
         <author>
@@ -16,12 +166,23 @@
         </author>
         <link href="https://dannmar.github.io/gallery.html"/>
         <id>https://dannmar.github.io/gallery.html</id>
+        <media:content url="https://dannmar.github.io/media/posts/3/IMG_5899-1-scaled-2.jpeg" medium="image" />
 
         <updated>2025-04-15T17:48:38+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://dannmar.github.io/media/posts/3/IMG_5899-1-scaled-2.jpeg" alt="" />
+                    Getting immersed in the sound art world.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dannmar.github.io/media/posts/3/IMG_5899-1-scaled-2.jpeg" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    Getting immersed in the sound art world.
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
