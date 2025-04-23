@@ -3,7 +3,7 @@
     <title>Daniel Marin</title>
     <link href="https://dannmar.github.io/feed.xml" rel="self" />
     <link href="https://dannmar.github.io" />
-    <updated>2025-04-23T10:05:49+01:00</updated>
+    <updated>2025-04-23T10:12:12+01:00</updated>
     <author>
         <name>Daniel Marin</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://dannmar.github.io/stylophone.html"/>
         <id>https://dannmar.github.io/stylophone.html</id>
+        <media:content url="https://dannmar.github.io/media/posts/16/a831542cd4927e97fbe0654aaea934db_large.jpg" medium="image" />
             <category term="Content Creation"/>
 
         <updated>2025-04-23T10:05:49+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dannmar.github.io/media/posts/16/a831542cd4927e97fbe0654aaea934db_large.jpg" alt="" />
                     Working closely with Stylophone (Dubreq), since 2022, in the release of several instruments like Stylophone Gen-2, Stylophone Beats, Stylophone Theremin and Stylosette, creating&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dannmar.github.io/media/posts/16/a831542cd4927e97fbe0654aaea934db_large.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Working closely with Stylophone (Dubreq), since 2022, in the release of several instruments like Stylophone Gen-2, Stylophone Beats, Stylophone Theremin and Stylosette, creating content and testing the devices. Stylophone is a&nbsp;iconic mini analog synth has been between us since the 1960’s. Its stylus control feature makes it unique, and has been used by great artists like Kraftwerk and David Bowie.
