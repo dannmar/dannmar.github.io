@@ -57,22 +57,6 @@
             ],
             "date_published": "2025-04-16T08:18:00+01:00",
             "date_modified": "2025-05-08T06:50:33+01:00"
-        },
-        {
-            "id": "https://danielmarin.me/the-parallel-world-of-waves-and-data.html",
-            "url": "https://danielmarin.me/the-parallel-world-of-waves-and-data.html",
-            "title": "The Parallel World of Waves and Data",
-            "summary": "This audiovisual installation was exhibited at Gallery 46 in February 2024. The Parallel World of Waves and Data explores the relationship between the&hellip;",
-            "content_html": "\n  <p>\n    This audiovisual installation was exhibited at Gallery 46 in February 2024. The Parallel World of Waves and Data explores the relationship between the material and the virtual, featuring visuals and sounds generated in real time. The digital realm is breaking into our world, leaving behind a trace of physical formats and analog electronics.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/c.jpg\" data-size=\"4284x5712\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/c-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/b.jpg\" data-size=\"4284x5712\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/b-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/d.jpg\" data-size=\"4284x5712\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/d-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/e.jpg\" data-size=\"5712x4284\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/e-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/f.jpg\" data-size=\"4284x5712\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/f-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://danielmarin.me/media/posts/5/gallery/a.jpg\" data-size=\"4284x5712\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/5/gallery/a-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ot5TDQ7OdJs?si=E0gS7U2TmP3hdNMJ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QJwk4DRC0hs?si=iZcaUCEZQx3O6qdL\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>\n\n  <p>\n    \n  </p>",
-            "image": "https://danielmarin.me/media/posts/5/IMG_0300-scaled.jpeg",
-            "author": {
-                "name": "Daniel Marin"
-            },
-            "tags": [
-                   "1. Interactive Design"
-            ],
-            "date_published": "2025-04-16T08:13:42+01:00",
-            "date_modified": "2025-05-13T16:29:11+01:00"
         }
     ]
 }
