@@ -3,12 +3,40 @@
     <title>Daniel Marin</title>
     <link href="https://danielmarin.me/feed.xml" rel="self" />
     <link href="https://danielmarin.me" />
-    <updated>2025-06-27T09:38:48+01:00</updated>
+    <updated>2025-06-27T09:59:26+01:00</updated>
     <author>
         <name>Daniel Marin</name>
     </author>
     <id>https://danielmarin.me</id>
 
+    <entry>
+        <title>We See, We Move</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://danielmarin.me/we-see-we-move.html"/>
+        <id>https://danielmarin.me/we-see-we-move.html</id>
+        <media:content url="https://danielmarin.me/media/posts/23/Screenshot-2025-06-27-at-09.58.41-2.png" medium="image" />
+            <category term="2. Film and Sound"/>
+
+        <updated>2025-06-27T09:59:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://danielmarin.me/media/posts/23/Screenshot-2025-06-27-at-09.58.41-2.png" alt="" />
+                    Collaborated in the production of sound design for this collaboration with film students from Central Saint Martins. The film shows us a metaphoric&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://danielmarin.me/media/posts/23/Screenshot-2025-06-27-at-09.58.41-2.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Collaborated in the production of sound design for this collaboration with film students from Central Saint Martins. The film shows us a metaphoric view of the passage of time.
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/msrJa2vC5Po?si=UOf_3G2w7evKns2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ambient Music as Mindfulness Practice</title>
         <author>
@@ -17,7 +45,7 @@
         <link href="https://danielmarin.me/ambient-music-as-mindfulness-practice.html"/>
         <id>https://danielmarin.me/ambient-music-as-mindfulness-practice.html</id>
         <media:content url="https://danielmarin.me/media/posts/22/Richmond-2.jpeg" medium="image" />
-            <category term="2. Sound Design"/>
+            <category term="2. Film and Sound"/>
 
         <updated>2025-06-27T08:52:51+01:00</updated>
             <summary>
@@ -45,7 +73,7 @@
         <link href="https://danielmarin.me/sound-design-examples.html"/>
         <id>https://danielmarin.me/sound-design-examples.html</id>
         <media:content url="https://danielmarin.me/media/posts/20/pexels-photo-2925015.jpeg" medium="image" />
-            <category term="2. Sound Design"/>
+            <category term="2. Film and Sound"/>
 
         <updated>2025-04-23T11:15:08+01:00</updated>
             <summary>
@@ -107,7 +135,7 @@
         <link href="https://danielmarin.me/green-girl.html"/>
         <id>https://danielmarin.me/green-girl.html</id>
         <media:content url="https://danielmarin.me/media/posts/7/Screenshot-2025-04-23-at-11.32.59.png" medium="image" />
-            <category term="2. Sound Design"/>
+            <category term="2. Film and Sound"/>
 
         <updated>2025-04-16T08:18:00+01:00</updated>
             <summary>

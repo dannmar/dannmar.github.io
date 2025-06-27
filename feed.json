@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://danielmarin.me/we-see-we-move.html",
+            "url": "https://danielmarin.me/we-see-we-move.html",
+            "title": "We See, We Move",
+            "summary": "Collaborated in the production of sound design for this collaboration with film students from Central Saint Martins. The film shows us a metaphoric&hellip;",
+            "content_html": "\n  <p>\n    Collaborated in the production of sound design for this collaboration with film students from Central Saint Martins. The film shows us a metaphoric view of the passage of time.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/msrJa2vC5Po?si=UOf_3G2w7evKns2w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://danielmarin.me/media/posts/23/Screenshot-2025-06-27-at-09.58.41-2.png",
+            "author": {
+                "name": "Daniel Marin"
+            },
+            "tags": [
+                   "2. Film and Sound"
+            ],
+            "date_published": "2025-06-27T09:59:26+01:00",
+            "date_modified": "2025-06-27T09:59:26+01:00"
+        },
+        {
             "id": "https://danielmarin.me/ambient-music-as-mindfulness-practice.html",
             "url": "https://danielmarin.me/ambient-music-as-mindfulness-practice.html",
             "title": "Ambient Music as Mindfulness Practice",
@@ -20,7 +36,7 @@
                 "name": "Daniel Marin"
             },
             "tags": [
-                   "2. Sound Design"
+                   "2. Film and Sound"
             ],
             "date_published": "2025-06-27T08:52:51+01:00",
             "date_modified": "2025-06-27T09:38:48+01:00"
@@ -36,7 +52,7 @@
                 "name": "Daniel Marin"
             },
             "tags": [
-                   "2. Sound Design"
+                   "2. Film and Sound"
             ],
             "date_published": "2025-04-23T11:15:08+01:00",
             "date_modified": "2025-05-08T06:49:51+01:00"
@@ -68,7 +84,7 @@
                 "name": "Daniel Marin"
             },
             "tags": [
-                   "2. Sound Design"
+                   "2. Film and Sound"
             ],
             "date_published": "2025-04-16T08:18:00+01:00",
             "date_modified": "2025-05-08T06:50:33+01:00"
