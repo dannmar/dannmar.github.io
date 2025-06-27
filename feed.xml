@@ -3,12 +3,37 @@
     <title>Daniel Marin</title>
     <link href="https://danielmarin.me/feed.xml" rel="self" />
     <link href="https://danielmarin.me" />
-    <updated>2025-06-26T19:38:55+01:00</updated>
+    <updated>2025-06-27T08:52:51+01:00</updated>
     <author>
         <name>Daniel Marin</name>
     </author>
     <id>https://danielmarin.me</id>
 
+    <entry>
+        <title>Ambient Music as Mindfulness Practice</title>
+        <author>
+            <name>Daniel Marin</name>
+        </author>
+        <link href="https://danielmarin.me/ambient-music-as-mindfulness-practice.html"/>
+        <id>https://danielmarin.me/ambient-music-as-mindfulness-practice.html</id>
+            <category term="2. Film Score"/>
+
+        <updated>2025-06-27T08:52:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a documentary that I created at my final year at university where I wanted to highlight my video editing and recording&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a documentary that I created at my final year at university where I wanted to highlight my video editing and recording skills, sound design and content creation abilities. The mini documentary talks about the healing properties of ambient music and relaxing sounds to improve our mental health.
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/G4yIbXZ3ZCA?si=ihU_B31nIxjN46pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sound Design</title>
         <author>

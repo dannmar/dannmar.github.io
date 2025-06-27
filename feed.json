@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://danielmarin.me/ambient-music-as-mindfulness-practice.html",
+            "url": "https://danielmarin.me/ambient-music-as-mindfulness-practice.html",
+            "title": "Ambient Music as Mindfulness Practice",
+            "summary": "This is a documentary that I created at my final year at university where I wanted to highlight my video editing and recording&hellip;",
+            "content_html": "\n  <p>\n    This is a documentary that I created at my final year at university where I wanted to highlight my video editing and recording skills, sound design and content creation abilities. The mini documentary talks about the healing properties of ambient music and relaxing sounds to improve our mental health.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G4yIbXZ3ZCA?si=ihU_B31nIxjN46pU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "author": {
+                "name": "Daniel Marin"
+            },
+            "tags": [
+                   "2. Film Score"
+            ],
+            "date_published": "2025-06-27T08:52:51+01:00",
+            "date_modified": "2025-06-27T08:52:51+01:00"
+        },
+        {
             "id": "https://danielmarin.me/sound-design-examples.html",
             "url": "https://danielmarin.me/sound-design-examples.html",
             "title": "Sound Design",
