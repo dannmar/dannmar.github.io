@@ -3,7 +3,7 @@
     <title>Daniel Marin</title>
     <link href="https://danielmarin.me/feed.xml" rel="self" />
     <link href="https://danielmarin.me" />
-    <updated>2026-04-02T09:58:16+01:00</updated>
+    <updated>2026-04-02T10:03:04+01:00</updated>
     <author>
         <name>Daniel Marin</name>
     </author>
@@ -17,13 +17,13 @@
         <link href="https://danielmarin.me/yamaha.html"/>
         <id>https://danielmarin.me/yamaha.html</id>
         <media:content url="https://danielmarin.me/media/posts/25/Yamaha-Motor-Company-Emblem.png" medium="image" />
-            <category term="3. Content Creation"/>
+            <category term="1. Digital Content"/>
 
         <updated>2026-04-02T09:50:02+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://danielmarin.me/media/posts/25/Yamaha-Motor-Company-Emblem.png" alt="" />
-                    I had the pleasure to work with the biggest musical instrument maker in the world, creating a 60 exclusive sample pack for their&hellip;
+                    I had the pleasure to work with the biggest musical instrument maker in the world, creating a 60-sounds sample pack for their exclusive&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,7 +31,7 @@
                     <p><img src="https://danielmarin.me/media/posts/25/Yamaha-Motor-Company-Emblem.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    I had the pleasure to work with the biggest musical instrument maker in the world, creating a 60 exclusive sample pack for their exclusive Yamaha Artist Pack series, a collection of signature sound projects implemented in their groovebox Seqtrak.&nbsp;
+    I had the pleasure to work with the biggest musical instrument maker in the world, creating a 60-sounds sample pack for their exclusive Yamaha Artist Pack series, a collection of signature sound projects implemented in their groovebox Seqtrak.&nbsp;
   </p>
 
   <p>
@@ -75,7 +75,7 @@
         <link href="https://danielmarin.me/interactive-ecosystem.html"/>
         <id>https://danielmarin.me/interactive-ecosystem.html</id>
         <media:content url="https://danielmarin.me/media/posts/24/Daniel-Marin-Interactive-Ecosystem-2.jpg" medium="image" />
-            <category term="1. Interactive Design"/>
+            <category term="3. Technology"/>
 
         <updated>2025-07-29T10:02:29+01:00</updated>
             <summary>
@@ -154,7 +154,7 @@
         <link href="https://danielmarin.me/we-see-we-move.html"/>
         <id>https://danielmarin.me/we-see-we-move.html</id>
         <media:content url="https://danielmarin.me/media/posts/23/Screenshot-2025-06-27-at-09.58.41-2.png" medium="image" />
-            <category term="2. Film and Sound"/>
+            <category term="2. Sound design"/>
 
         <updated>2025-06-27T09:59:26+01:00</updated>
             <summary>
@@ -182,7 +182,7 @@
         <link href="https://danielmarin.me/ambient-music-as-mindfulness-practice.html"/>
         <id>https://danielmarin.me/ambient-music-as-mindfulness-practice.html</id>
         <media:content url="https://danielmarin.me/media/posts/22/Richmond-2.jpeg" medium="image" />
-            <category term="2. Film and Sound"/>
+            <category term="2. Sound design"/>
 
         <updated>2025-06-27T08:52:51+01:00</updated>
             <summary>
@@ -210,7 +210,7 @@
         <link href="https://danielmarin.me/sound-design-examples.html"/>
         <id>https://danielmarin.me/sound-design-examples.html</id>
         <media:content url="https://danielmarin.me/media/posts/20/pexels-photo-2925015.jpeg" medium="image" />
-            <category term="2. Film and Sound"/>
+            <category term="2. Sound design"/>
 
         <updated>2025-04-23T11:15:08+01:00</updated>
             <summary>
