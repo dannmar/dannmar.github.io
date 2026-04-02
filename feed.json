@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://danielmarin.me/suno.html",
+            "url": "https://danielmarin.me/suno.html",
+            "title": "Suno",
+            "summary": "I've had the privilege to be a member of the Creator Champions team at Suno, the innovative AI music company that it's revolutionising&hellip;",
+            "content_html": "\n  <p>\n    I've had the privilege to be a member of the Creator Champions team at Suno, the innovative AI music company that it's revolutionising the musical industry with their signature AI model. Being a creator for this platform included creating short-form video, or \"Hooks\" for their website, as well as other forms of content and digital marketing, and testing new features with their personalised web-based software.\n  </p>\n\n  <p>\n    User are able to create remixes of our content, using custom prompts increasing interactivity and humanising the machine learning process, helping to build a community around the AI artist concept.&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://suno.com/@dasero?utm_source=Creator&utm_medium=dasero\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/26/Screenshot-2026-04-02-at-10.15.32-2.png\" height=\"909\" width=\"1913\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-xs.png 300w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-sm.png 480w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-md.png 768w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-lg.png 1024w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-xl.png 1360w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.15.32-2-2xl.png 1600w\">\n      </a>\n      <figcaption>Please feel free to explore my profile in depth by tapping the image</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://danielmarin.me/media/posts/26/Screenshot-2026-04-02-at-10.20.03-2.png\" height=\"994\" width=\"1916\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-xs.png 300w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-sm.png 480w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-md.png 768w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-lg.png 1024w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-xl.png 1360w ,https://danielmarin.me/media/posts/26/responsive/Screenshot-2026-04-02-at-10.20.03-2-2xl.png 1600w\">\n      <figcaption>Creating remixes with Suno Studio</figcaption>\n    </figure>",
+            "image": "https://danielmarin.me/media/posts/26/SunoReview-640w.jpeg.webp",
+            "author": {
+                "name": "Daniel Marin"
+            },
+            "tags": [
+                   "1. Digital Content"
+            ],
+            "date_published": "2026-04-02T10:26:09+01:00",
+            "date_modified": "2026-04-02T10:26:19+01:00"
+        },
+        {
             "id": "https://danielmarin.me/yamaha.html",
             "url": "https://danielmarin.me/yamaha.html",
             "title": "Yamaha",
